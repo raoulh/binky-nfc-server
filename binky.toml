@@ -1,0 +1,7 @@
+[general]
+
+[log]
+default = "debug"
+
+[db]
+sqlite = "/root/binky-server/binky.db"
